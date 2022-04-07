@@ -1,7 +1,7 @@
 # Eye-Movement-Project
 
 ### DESCRIPTION:
-In this project you are able to move the eye by having it follow your mouse.
+In this project you are able to move the eye by having it follow your mouse. Very fun to see how fast it can go. 
 
 ### HOW TO PLAY:
 Use mouse to hover over the eye and watch it follow.
